@@ -15,8 +15,8 @@
 
 ### What to use? 
 
-*Use whatever you want but main goal is to achieve a working vinyl player.*
-Currently we are using: 
+<p>*Use whatever you want but main goal is to achieve a working vinyl player.*
+<br>Currently we are using:</p> 
 
 - HTML
 - Tailwind CSS
