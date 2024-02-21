@@ -1,6 +1,9 @@
 # mojaveexpress-web
-The web project for a small community of vk pages.
-Idea is to create an audio player
+<p>The web project for a small community of vk pages. Idea is to create an *old* vinyl audio player.</p>
+<p>It should be noted that our requirements are: </p>
+- **Hosted website**
+- **Semi-realistic deisgn for a player**
+- **Fully automated and 24/7 serviced playlists** 
 
 Here are some web-sites ideas: 
 ---
