@@ -23,7 +23,7 @@ Here are some web-sites ideas:
 #### Also firebase got a decent redable domain name. 
 - No need to buy a specific domain name 
 *If needed the: 
-``bash 
+`` 
 http://www.dot.tk/ ``
 cand be used.* 
 
