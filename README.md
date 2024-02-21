@@ -22,7 +22,7 @@
 
 #### Currently we are using:
 
-- HTML
+- HTML/CSS
 - Tailwind CSS
 - JavaScript
 
