@@ -1,8 +1,9 @@
 # mojaveexpress-web
 
-<p> The web project for a small community of vk pages. Idea is to create an *old* vinyl audio player. 
+<p> The web project for a small community of vk pages. <br>
+  Idea is to create an *old* vinyl audio player. </p>
   
- #### It should be noted that our requirements are: </p>
+ #### It should be noted that our requirements are: 
 
 - Hosted website
 - Semi-realistic deisgn for a player
