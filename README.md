@@ -16,12 +16,12 @@
 ### What to use? 
 
 *Use whatever you want but main goal is to achieve a working vinyl player.*
+
 ####Currently we are using:
 
 - HTML
 - Tailwind CSS
 - JavaScript
-
 
 ### Hosting a website 
 **Note that hosting is an essential task in this project.**
