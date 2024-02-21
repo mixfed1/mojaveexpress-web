@@ -14,7 +14,7 @@ Here are some web-sites ideas:
 ### Hosting a website 
 **Note that hosting is an essential task in this project.**
 
--Firebase *google powered 
+-Firebase *google powered* 
 Greate all-arounder and got a good free plan for this.
 ---
 **Considering this project as a studying and non-commercial usage, that is why it is not worth buying any other plan.**
