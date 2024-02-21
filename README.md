@@ -22,9 +22,6 @@ Here are some web-sites ideas:
 
 #### Also firebase got a decent redable domain name. 
 - No need to buy a specific domain name 
-*If needed the: 
-`` 
-http://www.dot.tk/ ``
-cand be used.* 
+*If needed the: ``http://www.dot.tk/ `` can be used.* 
 
 
