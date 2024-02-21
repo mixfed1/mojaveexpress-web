@@ -17,7 +17,7 @@
 
 *Use whatever you want but main goal is to achieve a working vinyl player.*
 
-####Currently we are using:
+#### Currently we are using:
 
 - HTML
 - Tailwind CSS
