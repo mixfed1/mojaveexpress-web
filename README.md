@@ -1,7 +1,6 @@
 # mojaveexpress-web
 The web project for a small community of vk pages.
-
-### Idea is to create an audio player
+Idea is to create an audio player
 
 Here are some web-sites ideas: 
 ---
