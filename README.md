@@ -20,7 +20,7 @@ Here are some web-sites ideas:
 ---
 **Considering this project as a studying and non-commercial usage, that is why it is not worth buying any other plan.**
 
-####Also firebase got a decent redable domain name. 
+#### Also firebase got a decent redable domain name. 
 - No need to buy a specific domain name 
 *If needed the: 
 ``bash 
