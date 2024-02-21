@@ -5,7 +5,7 @@
 - Semi-realistic deisgn for a player
 - Fully automated and 24/7 serviced playlists
 
-Here are some web-sites ideas: 
+### Here are some web-sites ideas: 
 ---
 - https://github.com/codrops/RecordPlayer/tree/master
 - https://thomaspark.co/2021/03/needledrop-a-turntable-interface-for-music-playback/
