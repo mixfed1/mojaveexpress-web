@@ -15,8 +15,8 @@ Here are some web-sites ideas:
 **Note that hosting is an essential task in this project.**
 
 - Firebase
-*google powered* 
-Greate all-arounder and got a good free plan for this.
+* is google powered* 
+- Great all-arounder and got a good free plan for our needs.
 ---
 **Considering this project as a studying and non-commercial usage, that is why it is not worth buying any other plan.**
 
