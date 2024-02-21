@@ -23,7 +23,7 @@
 - Firebase
 *is google powered* 
 - Great all-arounder and got a good free plan for our needs.
----
+
 **Considering this project as a studying and non-commercial usage, that is why it is not worth buying any other plan.**
 
 #### Also firebase got a decent redable domain name. 
