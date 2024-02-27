@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  box-sizing: border-box;
+  background-color: #191b28;
+  background-size: 100% 240%;
+  
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 13rem;
+  padding-left: 18rem;
+}
+.sub-container {
+  height: 550px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #191b28;
+}
+.card {
+  width: 500px;
+  height: 550px;
+  background-image: linear-gradient(180deg, #191b28 0%, #7ff866 76%);
+  border-radius: 10px;
+  transition: all 2.6s;
+ }
+ 
+ .card2 {
+  width: 500px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #191b28;
+  border-radius: 30;
+  transition: all 2.6s;
+ }
+
+ .card2:hover {
+  transform: scale(0.982);
+  border-radius: 10px;
+ }
+ 
+ .card:hover {
+  box-shadow: 0px 5px 5px px rgba(93, 241, 185, 0.3);
+ }
+
+.audio-image {
+  height: 12rem;
+  width: 14vw;
+  border-radius: 5px;
+  margin: 2rem 0;
+  border-radius: 1.1rem;
+
+}
+.sub-container p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  color: #fff;
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+.wavesurfer-container {
+  margin: 1rem 0;
+  height: 19%;
+}
+.wavesurfer-controls {
+  display: flex;
+  margin-top: 1.5rem;
+}
+.wavesurfer-controls button {
+  font-size: 1.8rem;
+  color: white;
+  margin: 0 1.5rem;
+}
+.wavesurfer-controls button:nth-child(2),
+.wavesurfer-controls button:nth-child(3) {
+  background-color: #f90;
+  background: linear-gradient(210deg, #f90, rgb(227, 180, 114));
+  border-radius: 2rem;
+  padding: 0.9rem;
+  background: #3f3f3f;
+  box-shadow: inset 11px 11px 30px #0a0b10, inset -11px -11px 22px #282b40;
+}
+
+@media screen and (max-width: 998px) {
+  .sub-container {
+    height: 32rem;
+    width: 80vw;
+  }
+  .audio-image {
+    height: 13rem;
+    width: 67vw;
+  }
+}
