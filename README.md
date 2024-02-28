@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# mojaveexpress-web
 
-## Getting Started
+<p> The web project for a small community of vk pages. <br>
+  Idea is to create an "old" vinyl audio player. <br>
+  Yet the design of this player should be modern and as easy to use as an any other audio player. <br>
+</p>
+  
+ #### It should be noted that our requirements are: 
 
-First, run the development server:
+- Hosted website
+- Semi-realistic deisgn for a player
+- Fully automated and 24/7 serviced playlists
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Here are some web-sites ideas: 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- https://github.com/codrops/RecordPlayer/tree/master
+- https://thomaspark.co/2021/03/needledrop-a-turntable-interface-for-music-playback/
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### What to use? 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+*Use whatever you want but main goal is to achieve a working vinyl player.*
 
-## Learn More
+#### Currently we are using:
 
-To learn more about Next.js, take a look at the following resources:
+- HTML/CSS
+- Tailwind CSS
+- JavaScript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Hosting a website 
+**Note that hosting is an essential task in this project.**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Firebase
+*is google powered* 
+- Great all-arounder and got a good free plan for our needs.
 
-## Deploy on Vercel
+*Considering this project as a studying and non-commercial usage, that is why it is not worth buying any other plan.*
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### Also firebase got a decent redable domain name. 
+- No need to buy a specific domain name 
+*If needed the: ``http://www.dot.tk/ `` can be used.* 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
