@@ -81,15 +81,9 @@ export default function Home() {
       </div>
 
       <div className="opacity-0 hover:opacity-100 relative card">
-      <div class="relative card2">
-      
-        <Image 
-          src="public/nigastyle.jpg"
-          width={170}
-          height={260}
-          className="audio-image"
-        />
-        <button className='transition-background inline-flex h-11 items-center justify-center rounded-md bg-gradient-to-b from-slate-700 via-[#191b28] to-[#328339]  bg-[length:60%_200%] bg-[0%_0%] px-6 font-medium text-gray-950 duration-500 hover:bg-[100%_90%] focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-gray-50'>
+      <div class="relative card2 ">  
+      <img src="nigastyle.png" alt="Image" width="250" height="500"></img>
+      <button className='transition-background inline-flex h-11 items-center justify-center rounded-md bg-gradient-to-b from-slate-700 via-[#191b28] to-[#328339]  bg-[length:60%_200%] bg-[0%_0%] px-6 font-medium text-gray-950 duration-500 hover:bg-[100%_90%] focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-gray-50'>
         <span class="pr-none inline-block text-transparent bg-clip-text bg-[linear-gradient(to_right,theme(colors.emerald.300),theme(colors.green.500),theme(colors.lime.400),theme(colors.lime.300),theme(colors.emerald.400),theme(colors.lime.600),theme(colors.green.300))] bg-[length:200%_auto] animate-gradient">niggastyle</span>
       </button>
       
