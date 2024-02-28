@@ -84,7 +84,7 @@ export default function Home() {
       <div class="relative card2">
       
         <Image 
-          src="/nigastyle.jpg"
+          src="public/nigastyle.jpg"
           width={170}
           height={260}
           className="audio-image"
